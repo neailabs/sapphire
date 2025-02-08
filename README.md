@@ -1,2 +1,2 @@
 # sapphire
-init repo
+Labs repo for testing
